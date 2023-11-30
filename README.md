@@ -13,6 +13,9 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+--> Create dist folder
+node server.js
+--> Start localhost
 ```
 
 ### Lints and fixes files
